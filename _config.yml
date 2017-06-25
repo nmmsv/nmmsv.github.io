@@ -16,7 +16,7 @@ resume: true
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-url: https://koppl.in/indigo
+url: https://nmmsv.github.io
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
@@ -34,8 +34,8 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
+facebook: nmmsv
+twitter: nmmsv
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
@@ -49,7 +49,7 @@ github: mygithub
 # reddit: username
 medium: medium
 # vimeo: myvimeo
-email: myemail@gmail.com
+email: mousavi@ucsd.edu
 
 authors:
     nmmsv:
@@ -57,7 +57,7 @@ authors:
         bio: An engineer trekking uncharted territories 
         external-image: false
         picture: assets/images/profile.jpg
-        twitter: johndoe]
+        twitter: nmmsv]
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
