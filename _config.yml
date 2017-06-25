@@ -41,23 +41,23 @@ twitter: nmmsv
 # pinterest: mypinterest
 # linkedin: mylinkedin
 # youtube: myyoutube
-# spotify: myspotify
-github: mygithub
+spotify: 1113199014
+github: nmmsv
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
-medium: medium
+# medium: medium
 # vimeo: myvimeo
 email: mousavi@ucsd.edu
 
 authors:
     nmmsv:
         name: Nima Mousavi
-        bio: An engineer trekking uncharted territories 
-        external-image: false
+        bio: An engineer, trekking uncharted territories since 1993.
+        external-image: true
         picture: assets/images/profile.jpg
-        twitter: nmmsv]
+        twitter: nmmsv
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
