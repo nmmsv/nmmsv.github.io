@@ -3,7 +3,7 @@ name: Nima Mousavi
 bio: An engineer trekking uncharted territories 
 
 # twitter summary info
-description: A blog about technology and stuff related
+description: Nima Mousavi's personal webpage.
 
 # if it's an external image, update below for true
 # better with square images
@@ -14,7 +14,7 @@ picture: assets/images/profile.jpg
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: https://google.com/?q=my+resume
+resume-url: assets/resume.pdf
 
 url: https://nmmsv.github.io
 # your url: http://USERNAME.github.io
