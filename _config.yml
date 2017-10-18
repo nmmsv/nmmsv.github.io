@@ -19,6 +19,7 @@ resume-url: assets/resume.pdf
 url: https://nmmsv.github.io
 # your url: http://USERNAME.github.io
 
+
 permalink: /:title/
 
 # To enable google analytics, supply your token below
