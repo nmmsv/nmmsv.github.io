@@ -7,8 +7,8 @@ description: Nima Mousavi's personal webpage.
 
 # if it's an external image, update below for true
 # better with square images
-external-image: true
-picture: assets/images/profile.jpg
+external-image: false
+picture: assets/images/headshot.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
