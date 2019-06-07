@@ -4,11 +4,10 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>I'm a PhD student in <a href="https://gymreklab.github.io/index.html">Gymrek Lab</a> at UC San Diego and my research interest is bioinformatics and population genetics. 
-Recently, I've been working on using algorithmic and statistical methods to genotype repetitive regions of human genome.</p>
+<p>I'm a PhD student in <a href="https://gymreklab.github.io/index.html">Gymrek Lab</a> at UC San Diego and my research tries to uncover complex regions of the genome. 
+Recently, I've been working on using algorithmic and statistical methods to <a href="https://github.com/gymreklab/GangSTR">genotype tandem repeats</a>.</p>
 
-<p>Prior to joining Gymrek Lab, I briefly worked in embedded systems area, and published a <a href="http://seelab.ucsd.edu/papers/NimaPeriot2017.pdf">paper</a>. 
-I hold a BSc in Electrical Engineering (Digital Systems) from Sharif University of Technology, Tehran, Iran. In my free time I like to hangout with my friends, watch TV, workout, and go to the beach.</p>
+<p>I hold a BSc in Electrical Engineering (Digital Systems) from Sharif University of Technology, Tehran, Iran. In my free time I like to try new restaurants, watch sports, and go to the beach.</p>
 
 <!-- <h2>Skills</h2> -->
 
@@ -32,7 +31,5 @@ I hold a BSc in Electrical Engineering (Digital Systems) from Sharif University 
 <!-- <h2>Projects</h2>
 
 <ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
+	<li><a href="https://github.com/gymreklab/GangSTR">GangSTR: Genome-wide profiling of Tandem Repeats</a> <a href="https://www.biorxiv.org/content/10.1101/361162v2">bioRxiv</a></li>
 </ul> -->
