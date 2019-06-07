@@ -11,7 +11,12 @@ Recently, I've been working on using algorithmic and statistical methods to <a h
 
 <h2>Projects</h2>
 <ul>
-	<li><a href="https://github.com/gymreklab/GangSTR">GangSTR: Genome-wide profiling of Tandem Repeats</a> <a href="https://www.biorxiv.org/content/10.1101/361162v2">bioRxiv</a></li>
+	<li>GangSTR: Genome-wide profiling of Tandem Repeats</li>
+	<ul>
+		<li> <a href="https://github.com/gymreklab/GangSTR"> GitHub </a></li>
+		<li> <a href="https://www.biorxiv.org/content/10.1101/361162v2">bioRxiv</a></li>
+	</ul>
+	
 </ul>
 
 
