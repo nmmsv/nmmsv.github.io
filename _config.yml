@@ -1,6 +1,6 @@
 # main text of home
 name: Nima Mousavi
-bio: Engineer - podcast listener - repeat enthusiast
+bio: Engineer | Podcast Listener | Repeats Enthusiast
 
 # twitter summary info
 description: Nima Mousavi's personal webpage.
@@ -55,7 +55,7 @@ email: mousavi@ucsd.edu
 authors:
     nmmsv:
         name: Nima Mousavi
-        bio: Engineer - podcast listener - repeat enthusiast
+        bio: Engineer | Podcast Listener | Repeats Enthusiast
         external-image: true
         picture: assets/images/profile.jpg
         twitter: nmmsv
@@ -70,7 +70,7 @@ width: normal
 # paginate_path: "blog/:num/"
 
 # if you don't need projects, comment the *projects* configs below
-projects: true
+projects: false
 
 # if you don't need "about" or "blog", comment them out below
 about: true

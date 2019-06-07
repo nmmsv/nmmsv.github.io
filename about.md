@@ -9,6 +9,12 @@ Recently, I've been working on using algorithmic and statistical methods to <a h
 
 <p>I hold a BSc in Electrical Engineering (Digital Systems) from Sharif University of Technology, Tehran, Iran. In my free time I like to try new restaurants, watch sports, and go to the beach.</p>
 
+<h2>Projects</h2>
+<ul>
+	<li><a href="https://github.com/gymreklab/GangSTR">GangSTR: Genome-wide profiling of Tandem Repeats</a> <a href="https://www.biorxiv.org/content/10.1101/361162v2">bioRxiv</a></li>
+</ul>
+
+
 <!-- <h2>Skills</h2> -->
 
 <!-- <ul class="skill-list">
@@ -28,8 +34,6 @@ Recently, I've been working on using algorithmic and statistical methods to <a h
 	<li>TDD e Continuous Integration</li>
 </ul> -->
 
-<!-- <h2>Projects</h2>
 
-<ul>
-	<li><a href="https://github.com/gymreklab/GangSTR">GangSTR: Genome-wide profiling of Tandem Repeats</a> <a href="https://www.biorxiv.org/content/10.1101/361162v2">bioRxiv</a></li>
-</ul> -->
+
+
