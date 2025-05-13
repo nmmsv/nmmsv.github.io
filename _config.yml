@@ -1,6 +1,6 @@
 # main text of home
 name: Nima Mousavi
-bio: Engineer | Podcast Listener | Repeats Enthusiast
+bio: Engineer | Podcast Listener | Biotech Enthusiast
 
 # twitter summary info
 description: Nima Mousavi's personal webpage.
@@ -50,12 +50,12 @@ github: nmmsv
 # reddit: username
 # medium: medium
 # vimeo: myvimeo
-email: mousavi@ucsd.edu
+email: nima.mousavi.ee@gmail.com
 
 authors:
     nmmsv:
         name: Nima Mousavi
-        bio: Engineer | Podcast Listener | Repeats Enthusiast
+        bio: Engineer | Podcast Listener | Biotech Enthusiast
         external-image: true
         picture: assets/images/profile.jpg
         twitter: nmmsv
